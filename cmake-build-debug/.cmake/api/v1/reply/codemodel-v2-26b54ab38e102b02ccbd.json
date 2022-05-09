@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "AlgosNdsC_",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "AlgosNdsC_::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-AlgosNdsC_-Debug-db3cfd32e9cc0777bf01.json",
+					"name" : "AlgosNdsC_",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DecodeXORedArray::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DecodeXORedArray-Debug-2a64f28f323c41aeadd4.json",
+					"name" : "DecodeXORedArray",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/karthik/codeRepos/AlgosNdsC-/cmake-build-debug",
+		"source" : "/home/karthik/codeRepos/AlgosNdsC-"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

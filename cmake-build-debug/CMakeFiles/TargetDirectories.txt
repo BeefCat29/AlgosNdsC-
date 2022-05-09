@@ -1,0 +1,4 @@
+/home/karthik/codeRepos/AlgosNdsC-/cmake-build-debug/CMakeFiles/AlgosNdsC_.dir
+/home/karthik/codeRepos/AlgosNdsC-/cmake-build-debug/CMakeFiles/DecodeXORedArray.dir
+/home/karthik/codeRepos/AlgosNdsC-/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/karthik/codeRepos/AlgosNdsC-/cmake-build-debug/CMakeFiles/rebuild_cache.dir
