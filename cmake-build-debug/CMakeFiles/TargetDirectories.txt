@@ -1,5 +1,6 @@
 C:/Users/karth/OneDrive/Documents/GitHub/AlgosNdsC-/cmake-build-debug/CMakeFiles/AlgosNdsC_.dir
 C:/Users/karth/OneDrive/Documents/GitHub/AlgosNdsC-/cmake-build-debug/CMakeFiles/DecodeXORedArray.dir
 C:/Users/karth/OneDrive/Documents/GitHub/AlgosNdsC-/cmake-build-debug/CMakeFiles/RemoveDuplicatesLinkedList.dir
+C:/Users/karth/OneDrive/Documents/GitHub/AlgosNdsC-/cmake-build-debug/CMakeFiles/StrobogrammaticNumbers.dir
 C:/Users/karth/OneDrive/Documents/GitHub/AlgosNdsC-/cmake-build-debug/CMakeFiles/edit_cache.dir
 C:/Users/karth/OneDrive/Documents/GitHub/AlgosNdsC-/cmake-build-debug/CMakeFiles/rebuild_cache.dir

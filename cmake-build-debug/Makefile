@@ -154,6 +154,19 @@ RemoveDuplicatesLinkedList/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\RemoveDuplicatesLinkedList.dir\build.make CMakeFiles/RemoveDuplicatesLinkedList.dir/build
 .PHONY : RemoveDuplicatesLinkedList/fast
 
+#=============================================================================
+# Target rules for targets named StrobogrammaticNumbers
+
+# Build rule for target.
+StrobogrammaticNumbers: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 StrobogrammaticNumbers
+.PHONY : StrobogrammaticNumbers
+
+# fast build rule for target.
+StrobogrammaticNumbers/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\StrobogrammaticNumbers.dir\build.make CMakeFiles/StrobogrammaticNumbers.dir/build
+.PHONY : StrobogrammaticNumbers/fast
+
 DecodeXORedArray.obj: DecodeXORedArray.cpp.obj
 .PHONY : DecodeXORedArray.obj
 
@@ -202,6 +215,30 @@ RemoveDuplicatesLinkedList.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\RemoveDuplicatesLinkedList.dir\build.make CMakeFiles/RemoveDuplicatesLinkedList.dir/RemoveDuplicatesLinkedList.cpp.s
 .PHONY : RemoveDuplicatesLinkedList.cpp.s
 
+StrobogrammaticNumbers.obj: StrobogrammaticNumbers.cpp.obj
+.PHONY : StrobogrammaticNumbers.obj
+
+# target to build an object file
+StrobogrammaticNumbers.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\StrobogrammaticNumbers.dir\build.make CMakeFiles/StrobogrammaticNumbers.dir/StrobogrammaticNumbers.cpp.obj
+.PHONY : StrobogrammaticNumbers.cpp.obj
+
+StrobogrammaticNumbers.i: StrobogrammaticNumbers.cpp.i
+.PHONY : StrobogrammaticNumbers.i
+
+# target to preprocess a source file
+StrobogrammaticNumbers.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\StrobogrammaticNumbers.dir\build.make CMakeFiles/StrobogrammaticNumbers.dir/StrobogrammaticNumbers.cpp.i
+.PHONY : StrobogrammaticNumbers.cpp.i
+
+StrobogrammaticNumbers.s: StrobogrammaticNumbers.cpp.s
+.PHONY : StrobogrammaticNumbers.s
+
+# target to generate assembly for a file
+StrobogrammaticNumbers.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\StrobogrammaticNumbers.dir\build.make CMakeFiles/StrobogrammaticNumbers.dir/StrobogrammaticNumbers.cpp.s
+.PHONY : StrobogrammaticNumbers.cpp.s
+
 main.obj: main.cpp.obj
 .PHONY : main.obj
 
@@ -237,12 +274,16 @@ help:
 	@echo ... AlgosNdsC_
 	@echo ... DecodeXORedArray
 	@echo ... RemoveDuplicatesLinkedList
+	@echo ... StrobogrammaticNumbers
 	@echo ... DecodeXORedArray.obj
 	@echo ... DecodeXORedArray.i
 	@echo ... DecodeXORedArray.s
 	@echo ... RemoveDuplicatesLinkedList.obj
 	@echo ... RemoveDuplicatesLinkedList.i
 	@echo ... RemoveDuplicatesLinkedList.s
+	@echo ... StrobogrammaticNumbers.obj
+	@echo ... StrobogrammaticNumbers.i
+	@echo ... StrobogrammaticNumbers.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

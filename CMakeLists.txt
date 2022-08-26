@@ -7,3 +7,4 @@ add_executable(AlgosNdsC_ main.cpp)
 
 add_executable(DecodeXORedArray DecodeXORedArray.cpp)
 add_executable(RemoveDuplicatesLinkedList RemoveDuplicatesLinkedList.cpp)
+add_executable(StrobogrammaticNumbers StrobogrammaticNumbers.cpp)

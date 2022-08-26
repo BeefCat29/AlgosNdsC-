@@ -54,4 +54,5 @@ set(CMAKE_DEPEND_INFO_FILES
   "CMakeFiles/AlgosNdsC_.dir/DependInfo.cmake"
   "CMakeFiles/DecodeXORedArray.dir/DependInfo.cmake"
   "CMakeFiles/RemoveDuplicatesLinkedList.dir/DependInfo.cmake"
+  "CMakeFiles/StrobogrammaticNumbers.dir/DependInfo.cmake"
   )

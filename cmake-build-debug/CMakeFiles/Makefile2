@@ -65,6 +65,7 @@ CMAKE_BINARY_DIR = C:\Users\karth\OneDrive\Documents\GitHub\AlgosNdsC-\cmake-bui
 all: CMakeFiles/AlgosNdsC_.dir/all
 all: CMakeFiles/DecodeXORedArray.dir/all
 all: CMakeFiles/RemoveDuplicatesLinkedList.dir/all
+all: CMakeFiles/StrobogrammaticNumbers.dir/all
 .PHONY : all
 
 # The main recursive "preinstall" target.
@@ -75,6 +76,7 @@ preinstall:
 clean: CMakeFiles/AlgosNdsC_.dir/clean
 clean: CMakeFiles/DecodeXORedArray.dir/clean
 clean: CMakeFiles/RemoveDuplicatesLinkedList.dir/clean
+clean: CMakeFiles/StrobogrammaticNumbers.dir/clean
 .PHONY : clean
 
 #=============================================================================
@@ -154,6 +156,32 @@ RemoveDuplicatesLinkedList: CMakeFiles/RemoveDuplicatesLinkedList.dir/rule
 CMakeFiles/RemoveDuplicatesLinkedList.dir/clean:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\RemoveDuplicatesLinkedList.dir\build.make CMakeFiles/RemoveDuplicatesLinkedList.dir/clean
 .PHONY : CMakeFiles/RemoveDuplicatesLinkedList.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/StrobogrammaticNumbers.dir
+
+# All Build rule for target.
+CMakeFiles/StrobogrammaticNumbers.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\StrobogrammaticNumbers.dir\build.make CMakeFiles/StrobogrammaticNumbers.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\StrobogrammaticNumbers.dir\build.make CMakeFiles/StrobogrammaticNumbers.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\karth\OneDrive\Documents\GitHub\AlgosNdsC-\cmake-build-debug\CMakeFiles --progress-num=7,8 "Built target StrobogrammaticNumbers"
+.PHONY : CMakeFiles/StrobogrammaticNumbers.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/StrobogrammaticNumbers.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\karth\OneDrive\Documents\GitHub\AlgosNdsC-\cmake-build-debug\CMakeFiles 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/StrobogrammaticNumbers.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\karth\OneDrive\Documents\GitHub\AlgosNdsC-\cmake-build-debug\CMakeFiles 0
+.PHONY : CMakeFiles/StrobogrammaticNumbers.dir/rule
+
+# Convenience name for target.
+StrobogrammaticNumbers: CMakeFiles/StrobogrammaticNumbers.dir/rule
+.PHONY : StrobogrammaticNumbers
+
+# clean rule for target.
+CMakeFiles/StrobogrammaticNumbers.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\StrobogrammaticNumbers.dir\build.make CMakeFiles/StrobogrammaticNumbers.dir/clean
+.PHONY : CMakeFiles/StrobogrammaticNumbers.dir/clean
 
 #=============================================================================
 # Special targets to cleanup operation of make.
