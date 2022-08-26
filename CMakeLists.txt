@@ -6,3 +6,4 @@ set(CMAKE_CXX_STANDARD 14)
 add_executable(AlgosNdsC_ main.cpp)
 
 add_executable(DecodeXORedArray DecodeXORedArray.cpp)
+add_executable(RemoveDuplicatesLinkedList RemoveDuplicatesLinkedList.cpp)

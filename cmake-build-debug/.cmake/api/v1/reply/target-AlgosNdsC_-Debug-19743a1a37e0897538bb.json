@@ -2,7 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "DecodeXORedArray"
+			"path" : "AlgosNdsC_.exe"
+		},
+		{
+			"path" : "AlgosNdsC_.pdb"
 		}
 	],
 	"backtrace" : 1,
@@ -24,7 +27,7 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 8,
+				"line" : 6,
 				"parent" : 0
 			}
 		]
@@ -36,6 +39,9 @@
 			[
 				{
 					"fragment" : "-g"
+				},
+				{
+					"fragment" : "-std=gnu++14"
 				}
 			],
 			"language" : "CXX",
@@ -53,7 +59,7 @@
 			]
 		}
 	],
-	"id" : "DecodeXORedArray::@6890427a1f51a3e7e1df",
+	"id" : "AlgosNdsC_::@6890427a1f51a3e7e1df",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -65,12 +71,16 @@
 			{
 				"fragment" : "",
 				"role" : "flags"
+			},
+			{
+				"fragment" : "-lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32",
+				"role" : "libraries"
 			}
 		],
 		"language" : "CXX"
 	},
-	"name" : "DecodeXORedArray",
-	"nameOnDisk" : "DecodeXORedArray",
+	"name" : "AlgosNdsC_",
+	"nameOnDisk" : "AlgosNdsC_.exe",
 	"paths" : 
 	{
 		"build" : ".",
@@ -91,7 +101,7 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "DecodeXORedArray.cpp",
+			"path" : "main.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],

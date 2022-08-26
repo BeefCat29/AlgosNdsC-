@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2022.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\DecodeXORedArray.dir/objects.a
+C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\ar.exe qc CMakeFiles\DecodeXORedArray.dir/objects.a @CMakeFiles\DecodeXORedArray.dir\objects1.rsp
+C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE -g -Wl,--whole-archive CMakeFiles\DecodeXORedArray.dir/objects.a -Wl,--no-whole-archive -o DecodeXORedArray.exe -Wl,--out-implib,libDecodeXORedArray.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\DecodeXORedArray.dir\linklibs.rsp

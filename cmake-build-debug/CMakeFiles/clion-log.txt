@@ -1,4 +1,4 @@
-/home/karthik/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/221.5080.224/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/karthik/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/221.5080.224/bin/ninja/linux/ninja -G Ninja -S /home/karthik/codeRepos/AlgosNdsC- -B /home/karthik/codeRepos/AlgosNdsC-/cmake-build-debug
+"C:\Program Files\JetBrains\CLion 2022.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" -S C:\Users\karth\OneDrive\Documents\GitHub\AlgosNdsC- -B C:\Users\karth\OneDrive\Documents\GitHub\AlgosNdsC-\cmake-build-debug
 -- Configuring done
 -- Generating done
--- Build files have been written to: /home/karthik/codeRepos/AlgosNdsC-/cmake-build-debug
+-- Build files have been written to: C:/Users/karth/OneDrive/Documents/GitHub/AlgosNdsC-/cmake-build-debug

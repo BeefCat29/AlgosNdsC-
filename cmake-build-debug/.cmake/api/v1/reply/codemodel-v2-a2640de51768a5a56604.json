@@ -6,7 +6,7 @@
 			[
 				{
 					"build" : ".",
-					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.22"
@@ -16,7 +16,8 @@
 					"targetIndexes" : 
 					[
 						0,
-						1
+						1,
+						2
 					]
 				}
 			],
@@ -32,7 +33,8 @@
 					"targetIndexes" : 
 					[
 						0,
-						1
+						1,
+						2
 					]
 				}
 			],
@@ -41,15 +43,22 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "AlgosNdsC_::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-AlgosNdsC_-Debug-db3cfd32e9cc0777bf01.json",
+					"jsonFile" : "target-AlgosNdsC_-Debug-19743a1a37e0897538bb.json",
 					"name" : "AlgosNdsC_",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "DecodeXORedArray::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-DecodeXORedArray-Debug-2a64f28f323c41aeadd4.json",
+					"jsonFile" : "target-DecodeXORedArray-Debug-378c33796c2574fa0efb.json",
 					"name" : "DecodeXORedArray",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "RemoveDuplicatesLinkedList::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-RemoveDuplicatesLinkedList-Debug-a889ce98ffcdd23e6da3.json",
+					"name" : "RemoveDuplicatesLinkedList",
 					"projectIndex" : 0
 				}
 			]
@@ -58,8 +67,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/home/karthik/codeRepos/AlgosNdsC-/cmake-build-debug",
-		"source" : "/home/karthik/codeRepos/AlgosNdsC-"
+		"build" : "C:/Users/karth/OneDrive/Documents/GitHub/AlgosNdsC-/cmake-build-debug",
+		"source" : "C:/Users/karth/OneDrive/Documents/GitHub/AlgosNdsC-"
 	},
 	"version" : 
 	{

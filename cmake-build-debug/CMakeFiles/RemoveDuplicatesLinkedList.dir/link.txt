@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2022.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\RemoveDuplicatesLinkedList.dir/objects.a
+C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\ar.exe qc CMakeFiles\RemoveDuplicatesLinkedList.dir/objects.a @CMakeFiles\RemoveDuplicatesLinkedList.dir\objects1.rsp
+C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE -g -Wl,--whole-archive CMakeFiles\RemoveDuplicatesLinkedList.dir/objects.a -Wl,--no-whole-archive -o RemoveDuplicatesLinkedList.exe -Wl,--out-implib,libRemoveDuplicatesLinkedList.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\RemoveDuplicatesLinkedList.dir\linklibs.rsp
